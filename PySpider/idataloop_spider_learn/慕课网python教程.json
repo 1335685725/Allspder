@@ -1,0 +1,191 @@
+[
+    {
+        "descriptions": "登链科技首席技术官(Tiny熊），为你讲解区块链技术核心概念与原理",
+        "levels": "入门",
+        "studied_people": "5131",
+        "title": "区块链技术核心概念与原理讲解",
+        "urls": "https://www.imooc.com/learn/988"
+    },
+    {
+        "descriptions": "掌握python进行线性回归分析的原理及编程实践",
+        "levels": "初级",
+        "studied_people": "9060",
+        "title": "Python实现线性回归",
+        "urls": "https://www.imooc.com/learn/972"
+    },
+    {
+        "descriptions": "Python人工智能常用库Numpy简单入门",
+        "levels": "初级",
+        "studied_people": "16171",
+        "title": "Python人工智能常用库Numpy使用入门",
+        "urls": "https://www.imooc.com/learn/943"
+    },
+    {
+        "descriptions": "用Python制作一个高效的数据诊断工具",
+        "levels": "初级",
+        "studied_people": "13422",
+        "title": "Python制作数据分析工具",
+        "urls": "https://www.imooc.com/learn/937"
+    },
+    {
+        "descriptions": "快速理解python中基于基础数据结构的高级数据结构，让代码更精简且高效。",
+        "levels": "初级",
+        "studied_people": "9888",
+        "title": "python必学模块-collections",
+        "urls": "https://www.imooc.com/learn/934"
+    },
+    {
+        "descriptions": "带你领略全栈开发的速度与激情",
+        "levels": "初级",
+        "studied_people": "36731",
+        "title": "Python 全栈案例初体验",
+        "urls": "https://www.imooc.com/learn/864"
+    },
+    {
+        "descriptions": "如何把运维的工作流程化、标准化、自动化已经是迫在眉睫的问题。",
+        "levels": "入门",
+        "studied_people": "24379",
+        "title": "python自动化运维篇",
+        "urls": "https://www.imooc.com/learn/853"
+    },
+    {
+        "descriptions": "使用Python进行数据分析的基础模块简介",
+        "levels": "初级",
+        "studied_people": "47657",
+        "title": "Python数据分析-基础技术篇",
+        "urls": "https://www.imooc.com/learn/843"
+    },
+    {
+        "descriptions": "人工智能时代，你准备好成为抓住机遇的那百分之二吗。",
+        "levels": "初级",
+        "studied_people": "47711",
+        "title": "机器学习-实现简单神经网络",
+        "urls": "https://www.imooc.com/learn/813"
+    },
+    {
+        "descriptions": "手把手带你进入Django开发的大门，充分领略Django的魅力",
+        "levels": "初级",
+        "studied_people": "40564",
+        "title": "django入门与实践",
+        "urls": "https://www.imooc.com/learn/790"
+    },
+    {
+        "descriptions": "web.py开发入门入门教程，讲解一个你最快能学会的web开发的框架",
+        "levels": "初级",
+        "studied_people": "41633",
+        "title": "python-web.py开发入门",
+        "urls": "https://www.imooc.com/learn/753"
+    },
+    {
+        "descriptions": "Python面向对象教程，带你深入了解python面向对象特性",
+        "levels": "中级",
+        "studied_people": "42563",
+        "title": "Python-面向对象",
+        "urls": "https://www.imooc.com/learn/747"
+    },
+    {
+        "descriptions": "python类库中，requests是一件利器，想深入了解一起来学吧",
+        "levels": "中级",
+        "studied_people": "29728",
+        "title": "Python-走进Requests库",
+        "urls": "https://www.imooc.com/learn/736"
+    },
+    {
+        "descriptions": "一门针对数据科学的Python应用教程，打下扎实python功底",
+        "levels": "中级",
+        "studied_people": "44406",
+        "title": "Python在数据科学中的应用",
+        "urls": "https://www.imooc.com/learn/727"
+    },
+    {
+        "descriptions": "带你认识机器学习，一些经典的算法，最后是Demo演示",
+        "levels": "入门",
+        "studied_people": "90641",
+        "title": "初识机器学习-理论篇",
+        "urls": "https://www.imooc.com/learn/717"
+    },
+    {
+        "descriptions": "本教程让你初步掌握Python进行数据采集，创造属于你的价值",
+        "levels": "初级",
+        "studied_people": "44036",
+        "title": "python遇见数据采集",
+        "urls": "https://www.imooc.com/learn/712"
+    },
+    {
+        "descriptions": "本门python教程将代领大家轻松搞定Python装饰器运用",
+        "levels": "初级",
+        "studied_people": "45948",
+        "title": "python装饰器",
+        "urls": "https://www.imooc.com/learn/581"
+    },
+    {
+        "descriptions": "本教程带您解开python爬虫这门神奇技术的面纱",
+        "levels": "初级",
+        "studied_people": "165238",
+        "title": "Python开发简单爬虫",
+        "urls": "https://www.imooc.com/learn/563"
+    },
+    {
+        "descriptions": "如何使用正则处理文本，带你对python正则有个全面了解",
+        "levels": "初级",
+        "studied_people": "60355",
+        "title": "python正则表达式",
+        "urls": "https://www.imooc.com/learn/550"
+    },
+    {
+        "descriptions": "PyConChina2015大会干货分享，了解Python最新技术热点和动向",
+        "levels": "中级",
+        "studied_people": "22814",
+        "title": "PyConChina 2015 中国大会 北京场",
+        "urls": "https://www.imooc.com/learn/532"
+    },
+    {
+        "descriptions": "让我们一起来学习Python对于错误和异常的处理方式",
+        "levels": "中级",
+        "studied_people": "29465",
+        "title": "Python错误和异常",
+        "urls": "https://www.imooc.com/learn/457"
+    },
+    {
+        "descriptions": "本视频教程讲解Python如何开发MySQL数据库程序",
+        "levels": "初级",
+        "studied_people": "74569",
+        "title": "Python操作MySQL数据库",
+        "urls": "https://www.imooc.com/learn/475"
+    },
+    {
+        "descriptions": "本教程主要讲解Django基础入门知识，不容错过的Django初体验",
+        "levels": "初级",
+        "studied_people": "48681",
+        "title": "django初体检",
+        "urls": "https://www.imooc.com/learn/458"
+    },
+    {
+        "descriptions": "Python文件操作指南，掌握os模块对文件和目录的处理",
+        "levels": "初级",
+        "studied_people": "65375",
+        "title": "Python文件处理",
+        "urls": "https://www.imooc.com/learn/416"
+    },
+    {
+        "descriptions": "带你搭建 Python开发环境，为后续Python学习打好基础",
+        "levels": "入门",
+        "studied_people": "115776",
+        "title": "Python开发环境搭建",
+        "urls": "https://www.imooc.com/learn/397"
+    },
+    {
+        "descriptions": "学习函数式、模块和面向对象编程，掌握Python高级程序设计",
+        "levels": "中级",
+        "studied_people": "183895",
+        "title": "python进阶",
+        "urls": "https://www.imooc.com/learn/317"
+    },
+    {
+        "descriptions": "学python入门视频教程，让你快速入门并能编写简单的Python程序",
+        "levels": "入门",
+        "studied_people": "477127",
+        "title": "Python入门",
+        "urls": "https://www.imooc.com/learn/177"
+    }
+]
