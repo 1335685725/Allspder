@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonCrashCourse/.idea/PythonCrashCourse.iml" filepath="$PROJECT_DIR$/../PythonCrashCourse/.idea/PythonCrashCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpiderDemo.iml" filepath="$PROJECT_DIR$/.idea/SpiderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aclazz/.idea/aclazz.iml" filepath="$PROJECT_DIR$/../aclazz/.idea/aclazz.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/awesome-python3-webapp/.idea/awesome-python3-webapp.iml" filepath="$USER_HOME$/Documents/GitHub/awesome-python3-webapp/.idea/awesome-python3-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataStructures/.idea/dataStructures.iml" filepath="$PROJECT_DIR$/../dataStructures/.idea/dataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mooc/.idea/mooc.iml" filepath="$PROJECT_DIR$/../mooc/.idea/mooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pygameProj/.idea/pygameProj.iml" filepath="$PROJECT_DIR$/../pygameProj/.idea/pygameProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../someQuestions/.idea/someQuestions.iml" filepath="$PROJECT_DIR$/../someQuestions/.idea/someQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stockDemo/.idea/stockDemo.iml" filepath="$PROJECT_DIR$/../stockDemo/.idea/stockDemo.iml" />
+    </modules>
+  </component>
+</project>
