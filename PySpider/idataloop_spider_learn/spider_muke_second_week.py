@@ -1,3 +1,5 @@
+'''利用requests + xpath爬取慕课网关于python的教程，并保存为json文件'''
+
 import requests
 from lxml import etree
 import copy
@@ -11,6 +13,11 @@ all_course = []
 course_dict = {}
 
 def main(url, headers):
+    '''
+    :param url:
+    :param headers:
+    :return:None
+    '''
     for i in range(1, 3):
         a_url = url + str(i)
         print(f"开始爬取第{i}页\n{a_url}")
@@ -29,9 +36,10 @@ def main(url, headers):
             course_dict["levels"] = levels[i]
             course_dict["studied_people"] = studied_people[i]
             course_dict["descriptions"] = descriptions[i]
+            # list append一个对象时，只是添加改对象的引用， 因此需要用深拷贝
             copied_dict = copy.deepcopy(course_dict)
             all_course.append(copied_dict)
-        print("--------------------------------------------------")
+        print("-------------------------------------------------->")
         # print(len(all_course))
     # 写到json文件中
     with open("慕课网python教程.json", "w") as f:
